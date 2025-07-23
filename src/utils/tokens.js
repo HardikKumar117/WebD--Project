@@ -1,4 +1,4 @@
-import jwt from 'jsonwebtokens'
+import jwt from 'jsonwebtoken'
 import { logger } from '../logger.js'
 
 export const generateToken=(userId)=>{

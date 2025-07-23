@@ -116,3 +116,8 @@
 {"level":"info","message":"Connection created successfully","service":"user-service"}
 {"level":"info","message":"User is registered{\n  user_id: '4e52fe69-c235-4294-8a24-46738e7c2c6f',\n  username: 'Prateek',\n  password: '$2b$10$jcgFPtLYaUtK14VNbc3GUeZLOy/ZdfCTIInfhzSFhpQ2GiWP3MyXm',\n  email: 'Prateek@gmail.com',\n  blogs: [],\n  _id: new ObjectId('688067746e9cb556d7cc1467'),\n  __v: 0\n}","service":"user-service"}
 {"level":"info","message":"User is registered{\n  user_id: '86d71ffd-a139-44f6-9d8c-adc26d972abf',\n  username: 'Sher',\n  password: '$2b$10$6lFXNKK6PRbdqfuKPOIH2.6SsW8hY9LUksxh9iOsvx/J4k4qOqeKq',\n  email: 'Sher@gmail.com',\n  blogs: [],\n  _id: new ObjectId('688067996e9cb556d7cc146b'),\n  __v: 0\n}","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Logged user Sher and generated token is eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI4NmQ3MWZmZC1hMTM5LTQ0ZjYtOWQ4Yy1hZGMyNmQ5NzJhYmYiLCJpYXQiOjE3NTMyNDkwMTEsImV4cCI6MTc1MzI1NjIxMX0.LJpO9nnTaexX4y0qgWCfFtP4FcFkpkMnwyaK57rQse8","service":"user-service"}
