@@ -1,11 +1,14 @@
 import mongoose from "mongoose";
 
-const BlogSchema=new mongoose.Schema({
+export const BlogSchema=new mongoose.Schema({
     user_id:String,
     blog_id:String,
     blog_title:String,
     blog_content:String,
-    likes:String,
+    likes:{
+        type:String,
+        default:"0",
+    },
     comments:{
         type:Array,
           default:[]

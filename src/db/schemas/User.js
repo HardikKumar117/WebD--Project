@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { BlogSchema } from "./Blogs.js";
 
 const UserSchema=new mongoose.Schema({
     user_id:String,
@@ -6,7 +7,7 @@ const UserSchema=new mongoose.Schema({
     password:String,
     email:String,
     blogs:{
-        type:Array,
+        type:[BlogSchema],
           default:[]
     }
 })
