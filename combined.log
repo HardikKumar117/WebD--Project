@@ -8,3 +8,111 @@
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
 {"level":"info","message":"Server is running on port 3000","service":"user-service"}
 {"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"User is registered{\n  user_id: '110840fe-e012-404f-9ced-cd397e05a1ab',\n  blogs: [],\n  _id: new ObjectId('687fe87506b5a8b98e3f83dd'),\n  __v: 0\n}","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Username already taken","service":"user-service"}
+{"level":"info","message":"user already exists","service":"user-service"}
+{"level":"info","message":"User is registered{\n  user_id: 'd3aa0a73-0344-44bd-9c00-833a3f8a5ac3',\n  blogs: [],\n  _id: new ObjectId('687fe98b0250231f1246a9a7'),\n  __v: 0\n}","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"_original":{"email":"Hardik@gmail.com","name":"Hardik","password":"1234","phone":"12343"},"details":[{"context":{"key":"password","label":"password","regex":{},"value":"1234"},"message":"\"password\" with value \"1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/","path":["password"],"type":"string.pattern.base"}],"level":"error","message":"Error in validation \"password\" with value \"1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/","service":"user-service","stack":"ValidationError: \"password\" with value \"1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"_original":{"email":"Hardik@gmail.com","name":"Hardik","password":"hardik@1234","phone":"12343"},"details":[{"context":{"key":"password","label":"password","regex":{},"value":"hardik@1234"},"message":"\"password\" with value \"hardik@1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/","path":["password"],"type":"string.pattern.base"}],"level":"error","message":"Error in validation \"password\" with value \"hardik@1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/","service":"user-service","stack":"ValidationError: \"password\" with value \"hardik@1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"_original":{"email":"Hardik@gmail.com","name":"Hardik","password":"hardik@1234","phone":"12343"},"details":[{"context":{"key":"password","label":"password","regex":{},"value":"hardik@1234"},"message":"\"password\" with value \"hardik@1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/","path":["password"],"type":"string.pattern.base"}],"level":"error","message":"Error in validation \"password\" with value \"hardik@1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/","service":"user-service","stack":"ValidationError: \"password\" with value \"hardik@1234\" fails to match the required pattern: /^(?=.*[a-z])(?=.*[A-Z])/"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"_original":{"email":"Hardik@gmail.com","name":"Hardik","password":"hardik@1234","phone":"12343"},"details":[{"context":{"key":"password","label":"password","regex":{},"value":"hardik@1234"},"message":"\"password\" with value \"hardik@1234\" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/","path":["password"],"type":"string.pattern.base"}],"level":"error","message":"Error in validation \"password\" with value \"hardik@1234\" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/","service":"user-service","stack":"ValidationError: \"password\" with value \"hardik@1234\" fails to match the required pattern: /^[a-zA-Z0-9]{3,30}$/"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"error","message":"error in password","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"User is registered{\n  user_id: '4cf6f25f-0b7a-44c9-a917-f06574a7fc54',\n  username: 'Hardik',\n  password: '$2b$10$Pn/ijFZvhtpmuG30ImNUPuSPTZccjXRXVhieI9Zpus.5y/eBr/Ypq',\n  email: 'Hardik@gmail.com',\n  phone: '12343',\n  blogs: [],\n  _id: new ObjectId('68806277716fd34a4b3801a8'),\n  __v: 0\n}","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"Server is running on port 3000","service":"user-service"}
+{"level":"info","message":"Connection created successfully","service":"user-service"}
+{"level":"info","message":"User is registered{\n  user_id: '4e52fe69-c235-4294-8a24-46738e7c2c6f',\n  username: 'Prateek',\n  password: '$2b$10$jcgFPtLYaUtK14VNbc3GUeZLOy/ZdfCTIInfhzSFhpQ2GiWP3MyXm',\n  email: 'Prateek@gmail.com',\n  blogs: [],\n  _id: new ObjectId('688067746e9cb556d7cc1467'),\n  __v: 0\n}","service":"user-service"}
+{"level":"info","message":"User is registered{\n  user_id: '86d71ffd-a139-44f6-9d8c-adc26d972abf',\n  username: 'Sher',\n  password: '$2b$10$6lFXNKK6PRbdqfuKPOIH2.6SsW8hY9LUksxh9iOsvx/J4k4qOqeKq',\n  email: 'Sher@gmail.com',\n  blogs: [],\n  _id: new ObjectId('688067996e9cb556d7cc146b'),\n  __v: 0\n}","service":"user-service"}
